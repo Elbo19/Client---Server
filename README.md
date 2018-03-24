@@ -1,4 +1,4 @@
-# Clien t- Server
+# Client - Server
 
 Name: Elbetel Gezahegn
 ID: ATR/3445/08
