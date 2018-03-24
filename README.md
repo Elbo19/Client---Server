@@ -1,9 +1,9 @@
-# SE2-Assignment1
+# Clien t- Server
 
 Name: Elbetel Gezahegn
 ID: ATR/3445/08
 Section 1
-This is a simple login page designed with MVC architecture. For sample is registered on the database. If the user enters the correct password and username, it will take them to the main page. The users can also logout.
-To verify use:
-Username: user1
-Password: 1234
+This is a simple client-server architecture program. The user can enter something on the client slide and it will display it on the server side.
+Remark: Run the server program then run the client.
+ 
+
